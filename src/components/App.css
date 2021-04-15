@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.BoxColor {
+  display: block;
+  text-align: center;
+  justify-content: space-between;
+}
